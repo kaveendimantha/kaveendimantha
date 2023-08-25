@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaveen Dimantha</h1>
 <h3 align="center">Passionate IT Student | Software Developer | Designer</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/kaveendimantha/kaveendimantha/assets/124872741/c618a436-4cad-4339-8970-733278533a93">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw22N4KchUotTVAwzE1RHHzz&ust=1693062003718000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKipvs2J-IADFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaveendimantha&label=Profile%20views&color=0e75b6&style=flat" alt="kaveendimantha" /> </p>
 
