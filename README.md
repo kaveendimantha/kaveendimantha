@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaveen Dimantha</h1>
 <h3 align="center">Passionate IT Student | Software Developer | Designer</h3>
+<img align="right" alt="coding" width="400" src="![image](https://github.com/kaveendimantha/kaveendimantha/assets/124872741/726695b9-0b7f-4735-b231-60627d27749f)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaveendimantha&label=Profile%20views&color=0e75b6&style=flat" alt="kaveendimantha" /> </p>
 
