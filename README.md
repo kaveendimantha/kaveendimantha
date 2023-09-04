@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **OOP with Java**
 
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+
 - 💬 Ask me about **Web development | Graphic Design**
 
 - 📫 How to reach me **kaveendimantha@gmail.com**
