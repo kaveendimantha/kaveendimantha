@@ -6,7 +6,7 @@
 
 <table align="center">
 <tr border="none">
-<td width="60%" align="left">
+<td width="70%" align="left">
 
 - 🔭 I’m currently working on [Android Studio, Figma](https://github.com/kaveendimantha/TaskPix.git)
 
