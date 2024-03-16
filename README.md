@@ -8,7 +8,7 @@
 <tr border="none">
 <td width="70%" align="left">
 
-- 🔭 I’m currently working on [Android Studio, Figma](https://github.com/kaveendimantha/TaskPix.git)
+- 🔭 I’m currently working on **Android Studio, Figma**
 
 - 🌱 I’m currently learning **MERN**
 
