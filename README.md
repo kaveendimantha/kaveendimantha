@@ -6,7 +6,7 @@
 
 <table align="center">
 <tr border="none">
-<td width="70%" align="left">
+<td width="80%" align="left">
 
 - 🔭 I’m currently working on **Android Studio | Figma**
 
