@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kaveen Dimantha &nbsp &nbsp <img width=40px height=40px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> </h1>
 <h3 align="center">Passionate IT Student | Software Developer | UI Designer </h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaveendimantha&label=Profile%20views&color=0e75b6&style=flat" alt="kaveendimantha" />
 
 <table align="center">
 <tr border="none">
