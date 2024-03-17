@@ -1,6 +1,11 @@
 ![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
 
-<h1 align="center">Hi 👋, I'm Kaveen Dimantha &nbsp &nbsp <img width=40px height=40px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> </h1>
+<h1 align="center"><img width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> <h3 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffff&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Kaveen+Dimantha;+An+Open+Source+Enthusiast+;+Web+Developer+;+UI/UX+Designer+;+Love+To+Impactful+Projects+;+An+Avid+Reader+;">
+</h3></h1>
+
+<hr>
+
 <h3 align="center">Passionate IT Student | Software Developer | UI Designer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaveendimantha&label=Profile%20views&color=0e75b6&style=flat" alt="kaveendimantha" />
 
@@ -30,9 +35,9 @@
 </tr>
 </table>
 
----
 
 
+<br></br>
 
 
 <h3 align="center">Connect with me:</h3>
