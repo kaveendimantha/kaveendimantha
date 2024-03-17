@@ -1,4 +1,4 @@
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
+![footer](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center"><img width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> <h3 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?color=ffff&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Kaveen+Dimantha;+An+Open+Source+Enthusiast+;+Web+Developer+;+UI/UX+Designer+;+Love+To+Impactful+Projects+;+An+Avid+Reader+;">
@@ -28,7 +28,7 @@
 </td>
 <td width="40%" align="center">
 
-  <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105">
 
   
   </td>
@@ -67,14 +67,10 @@
    <br></br>
   </div>
 
-
------
 <br>
 
-##  A Snake Eating my Contributions Graph
-
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--O3hycoaa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt = "Snake Game"/>
 </p>
 <br>
 
