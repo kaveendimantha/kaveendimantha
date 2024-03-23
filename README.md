@@ -1,7 +1,7 @@
 ![footer](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center"><img width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> <h3 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?color=ffff&size=30&center=true&vCenter=true&width=570&height=70&lines=Hey+There+👋,+I'm+Kaveen+Dimantha;+An+Open+Source+Enthusiast+;+Web+Developer+;+UI/UX+Designer+;+Love+To+Impactful+Projects+;+An+Avid+Reader+;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffff&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Kaveen;+An+Open+Source+Enthusiast+;+Web+Developer+;+UI/UX+Designer+;+Love+To+Impactful+Projects+;+An+Avid+Reader+;">
 </h3></h1>
 
 <hr>
