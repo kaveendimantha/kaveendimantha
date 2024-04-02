@@ -19,7 +19,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 💬 Ask me about **Web development | UI Design | Graphic Design**
+- 💬 Ask me about **Web development | UI Design **
 
 - 📫 How to reach me **kaveendimantha@gmail.com**
 
