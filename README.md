@@ -63,7 +63,7 @@
   
  
   <div align="center">
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=kaveendimantha&&theme=dark" alt="kaveendimantha&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=kaveendimantha&theme=dark" alt="kaveendimantha&hide_border=false" /> 
    <br></br>
   </div>
 
