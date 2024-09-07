@@ -7,7 +7,7 @@
 <hr>
 
 <h3 align="center">Passionate IT Student | Software Developer | UI Designer </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaveendimantha&label=Profile%20views&color=0e75b6&style=flat" alt="kaveendimantha" />
+<p align="center"> <br/><img src="https://komarev.com/ghpvc/?username=kaveendimantha&label=Profile%20views&color=0e75b6&style=flat" alt="kaveendimantha" /><br/><br/>
 
 <table align="center">
 <tr border="none">
